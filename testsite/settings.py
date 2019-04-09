@@ -25,7 +25,7 @@ SECRET_KEY = 'd(%*kv^z0pqar83z0gpqx!)b$qs-v_$6v_wipuv*b1(2f@qs6m'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.1.1', '127.0.0.1', 'PythonAnywhere']
+ALLOWED_HOSTS = ['127.0.1.1', '127.0.0.1', 'PythonAnywhere', 'monotristana.pythonanywhere.com']
 
 
 # Application definition
